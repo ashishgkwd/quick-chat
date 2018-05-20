@@ -1,0 +1,16 @@
+.Chat-history {
+    display: flex;  
+    flex-grow: 9;
+}
+
+.Chat-history-paper {
+    flex: 1;
+    padding: 1em;
+}
+
+.Chat-history-content {
+    width: 100%;
+    height: 100%;
+    background-color: whitesmoke;
+    text-align: center;
+}
