@@ -7,7 +7,6 @@ class ChatInput extends Component {
             <div>
                 <TextField
                     label="New Message"
-                    placeholder="New Message"
                     helperText="Type your message above"
                     fullWidth
                     multiline
